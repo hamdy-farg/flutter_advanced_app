@@ -128,3 +128,13 @@ This setup ensures a comprehensive, feature-rich, and user-friendly application.
 
 Feel free to explore and contribute! 🚀
 
+
+## 🤝 Team Members
+
+This project was collaboratively developed by:
+
+1. Hamdy Farag Hamdy
+2. Mahmoud Mohamed Ali
+3. Yousef Mohamed Mahmoud
+4. Mohamed Sherif
+
