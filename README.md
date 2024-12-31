@@ -49,6 +49,16 @@ C:.
 
 
 
+### 🖌️ UI Design
+You can view the UI design for this project on Figma: [Event Booking App - EventHub](https://www.figma.com/design/gyChDEpDZPzF7wKCzOeutk/Event-Booking-App--EventHub-(Community)?node-id=696-23686&p=f&t=N2ohbfmokqWhU2zf-0)
+
+![WhatsApp Image 2024-12-31 at 17 09 12_18c1e198](https://github.com/user-attachments/assets/3ce9ec0c-1120-4711-af27-93f54fe63828)
+
+![WhatsApp Image 2024-12-31 at 17 09 11_4f7d8318](https://github.com/user-attachments/assets/2c25b60d-f9d3-4b2d-acc6-92d5fd443b5f)
+
+This setup ensures a comprehensive, feature-rich, and user-friendly application. 🚀
+
+
 #
 #
 #
