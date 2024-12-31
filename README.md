@@ -46,8 +46,21 @@ C:.
 - **Clear Separation of Concerns**: Each module focuses on a specific feature or functionality.
 - **Scalable Design**: Easily add new features without disrupting existing structure.
 - **Reusability**: Centralized utilities, theming, and widgets reduce duplication.
+#
+#
+
+### 🖌️ UI Design
+You can view the UI design for this project on Figma: [Event Booking App - EventHub](https://www.figma.com/design/gyChDEpDZPzF7wKCzOeutk/Event-Booking-App--EventHub-(Community)?node-id=696-23686&p=f&t=N2ohbfmokqWhU2zf-0)
+
+![App Preview](insert-image-path-here)
 
 
+
+
+![WhatsApp Image 2024-12-31 at 17 09 11_55213c3a](https://github.com/user-attachments/assets/ba2c8937-d7f3-4a59-86e8-a2d753295439)
+![WhatsApp Image 2024-12-31 at 17 09 12_51cdd668](https://github.com/user-attachments/assets/33bf5444-f094-473a-ba06-288ab7e2d180)
+
+This setup ensures a comprehensive, feature-rich, and user-friendly application. 🚀
 
 #
 #
